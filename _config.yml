@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Neural target speech extraction tutorial
+description: This webpage contains supporting material for Interspeech 2021 tutorial by Marc Delcroix and Katerina Zmolikova.
+markdown: kramdown
