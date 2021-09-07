@@ -4,7 +4,7 @@
 
 Here you can find supporting materials for [Interspeech 2021](https://www.interspeech2021.org/){:target="_blank" rel="noopener"} tutorial on Neural target speech extraction. 
 
-- Slides [pdf](slides/tutorial_delcroix_neural_tse.pdf) [pptx](slides/tutorial_delcroix_neural_tse.pptx)
+- Slides [pdf](slides/tutorial_delcroix_neural_tse.pdf) 
 - [SpeakerBeam implementation](https://github.com/BUTSpeechFIT/speakerbeam){:target="_blank" rel="noopener"}
 - [Audio target speech extraction literature](https://docs.google.com/spreadsheets/d/1iiMhxjYQ6bR90CQ3pfQrAIOz5P2UBaMtZmu-xt7rr8U/edit?usp=sharing){:target="_blank" rel="noopener"}
 
